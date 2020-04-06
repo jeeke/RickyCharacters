@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f144bde3-f0df-4d28-a97c-87a5d6ef620e" name="Default Changelist" comment="" />
+    <list default="true" id="f144bde3-f0df-4d28-a97c-87a5d6ef620e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/rickycharacters/data/states/NetworkState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/rickycharacters/ui/views/fragments/sealedclassway/StateCharactersFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/android/rickycharacters/ui/views/fragments/sealedclassway/StateCharactersFragment.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +37,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a9VNbXsoKyzIyF1LqjdDaGD5tg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -123,13 +138,29 @@
       <option name="presentableId" value="Default" />
       <updated>1586147757768</updated>
     </task>
+    <task id="LOCAL-00001" summary="Classical way for state management">
+      <created>1586160121225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586160121225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Classical way for state management" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classical way for state management" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="212" y="27" width="1001" height="741" key="CommitChangelistDialog2" timestamp="1586159993437">
+    <state x="212" y="27" width="1001" height="741" key="CommitChangelistDialog2" timestamp="1586160120955">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="212" y="27" width="1001" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1586159993437" />
+    <state x="212" y="27" width="1001" height="741" key="CommitChangelistDialog2/70.27.1296.741@70.27.1296.741" timestamp="1586160120955" />
+    <state x="301" y="143" width="824" height="515" key="IDE.errors.dialog" timestamp="1586160201845">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="301" y="143" width="824" height="515" key="IDE.errors.dialog/70.27.1296.741@70.27.1296.741" timestamp="1586160201845" />
     <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1586151892920">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
